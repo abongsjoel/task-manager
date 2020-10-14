@@ -27,17 +27,17 @@ app.listen(port, () => {
 })
 
 
-const Task = require('./models/task')
-const User = require('./models/user')
+// const Task = require('./models/task')
+// const User = require('./models/user')
 
-const main = async () => {
-    // const task = await Task.findById('5f872d9f98a1bd2b848df574')
-    // await task.populate('owner').execPopulate()
-    // console.log(task.owner)
+// const main = async () => {
+//     // const task = await Task.findById('5f872d9f98a1bd2b848df574')
+//     // await task.populate('owner').execPopulate()
+//     // console.log(task.owner)
 
-    const user = await User.findById('5f872c48a9ac10369ce2c169')
-    await user.populate('tasks').execPopulate()
-    console.log(user.tasks)
-}
+//     const user = await User.findById('5f872c48a9ac10369ce2c169')
+//     await user.populate('tasks').execPopulate()
+//     console.log(user.tasks)
+// }
 
-main()
+// main()
