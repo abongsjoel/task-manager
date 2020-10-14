@@ -18,6 +18,7 @@
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
     "mongoose": "^5.10.9",
+    "multer": "^1.4.1",
     "validator": "^13.1.17"
   }
 }
