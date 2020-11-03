@@ -1,9 +1,7 @@
 
 # Task Manager App
 
-> This project was built while studying Nodejs. In this project, i create HTTP endpoints for a Task Manager application. I made use of sendgrid as a mail service, and i used bcryptjs for encription.
-
-The project also made use of the express server, and the mongoose model for database management amongs other things.
+This project was built while studying Nodejs. In this project, i create HTTP endpoints for a Task Manager application. I made use of sendgrid as a mail service, and i used bcryptjs for encription. The project also made use of the express server, and the mongoose model for database management amongs other things.
 
 
 ## Live Demo 
