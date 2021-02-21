@@ -41,7 +41,7 @@ This project was built while studying Nodejs. In this project, i create HTTP end
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abongsjoel/iec/issues).
+Feel free to check the [issues page](https://github.com/abongsjoel/task-manager/issues).
 
 
 ## Show your support
