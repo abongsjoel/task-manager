@@ -37,7 +37,11 @@ This project was built while studying Nodejs. In this project, i create HTTP end
 - Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
 - LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
 
-## Acknowledgments
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/iec/issues).
 
 
 ## Show your support
